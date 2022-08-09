@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ITACHI1117
-- 👀 I’m interested in Programming,Gamming,HTML and CSS
-- 🌱 I’m currently learning javascript,java,React native, node js
+- 👀 I’m interested in Programming,HTML, Jvav Script CSS
+- 🌱 I’m currently learning java,React native, React js node js
 - 💞️ I’m looking to collaborate on Any Project
 - 📫 How to reach me Email:ajogujoseph0317@gmail.com
 
