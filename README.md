@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React native,
 - 💞️ I’m looking to collaborate on Any Project
 - 📫 How to reach me Email:ajogujoseph0317@gmail.com
-- 💼 my portfolio [https://ajogujoseph.netlify.app](https://ajogujoseph.netlify.app/)
+- 💼 my portfolio [ajogujoseph.netlify.app](https://ajogujoseph.netlify.app/)
 
 [![](https://visitcount.itsvg.in/api?id=AJ&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
