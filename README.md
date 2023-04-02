@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ITACHI1117
+- 👋 Hi, I’m AJ @ITACHI1117
 - 👀 I’m interested in Programming,HTML, JavaScript, CSS, Type Script, React, React Js, React Native, Next js Git, Figma
 - 🌱 I’m currently learning React native,
 - 💞️ I’m looking to collaborate on Any Project
