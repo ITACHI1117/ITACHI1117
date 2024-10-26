@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AJ @ITACHI1117
 - 👀 I’m interested in Programming,HTML, JavaScript, Python, CSS, Type Script, React, React Js, React Native, Next js Git, Figma
-- 🌱 I’m currently learning React native,
+- 🌱 Frontend Developer
 - 💞️ I’m looking to collaborate on Any Project
 - 📫 How to reach me Email:ajogujoseph0317@gmail.com
 - 💼 my portfolio [ajogujoseph.netlify.app](https://ajogujoseph.netlify.app/)
