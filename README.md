@@ -1,11 +1,27 @@
-- 👋 Hi, I’m AJ @ITACHI1117
-- 👀 I’m interested in Programming,HTML, JavaScript, Python, CSS, Type Script, React, React Js, React Native, Next js Git, Figma
-- 🌱 Frontend Developer
-- 💞️ I’m looking to collaborate on Any Project
-- 📫 How to reach me Email:ajogujoseph0317@gmail.com
-- 💼 my portfolio [ajogujoseph.netlify.app](https://ajogujoseph.netlify.app/)
+# 👋 Hi, I’m AJ (Ajogu Joseph)  
 
-[![](https://visitcount.itsvg.in/api?id=AJ&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
+I’m a **Frontend Developer** passionate about building clean, responsive, and user-friendly applications.  
+I enjoy turning ideas into products that people love to use.  
+
+### 💻 Tech Interests  
+- React.js | React Native | Next.js | TypeScript  
+- JavaScript (ES6+), HTML, CSS, Tailwind CSS  
+- Git & GitHub | Figma | Python (for automation)  
+
+### 🚀 What I Do  
+- Craft modern web and mobile interfaces  
+- Build scalable and performant applications  
+- Collaborate with teams to bring projects to life  
+
+### 🤝 Open to Collaborations  
+I’m always excited to work on new projects, contribute to open source, and collaborate with other developers.  
+
+### 📫 Get in Touch  
+- Email: **ajogujoseph0317@gmail.com**  
+- Portfolio: [aj-portfolio-2-0.vercel.app](https://aj-portfolio-2-0.vercel.app)  
+
+![Profile Views](https://visitcount.itsvg.in/api?id=AJ&label=Profile%20Views&color=12&icon=2&pretty=true)
+
 
 
 <!---
